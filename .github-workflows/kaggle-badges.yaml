@@ -30,14 +30,14 @@ jobs:
         uses: spider-man-tm/kaggle-badges@v1.3.0
         with:
           # ex. user_name: spidermandance
-          user_name: {imeintanis} #{ Your Kaggle Username }
+          user_name: {imeintanis}  
           # example of using GitHub Secrets
           # user_name: ${{ secrets.KAGGLE_USERNAME }}
 
       - name: Commit and Push SVG files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "https://www.kaggle.com/imeintanis"
+          git config --local user.email "i.meintanis@gmail.com"
+          git config --local user.name "i-mein"
           git add ./kaggle-badges/* ./kaggle-plates/*
           git commit -m "Add generated SVG files" || echo "No changes to commit"
           git push
