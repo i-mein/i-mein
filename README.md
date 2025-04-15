@@ -57,6 +57,8 @@
 
 <br />
 
+<!--
+
 ## Awards 
 
 - IKY Scholarship for Postgraduate studies abroad (IKY, Greece)
@@ -73,7 +75,7 @@
  
 - Conference Travel Fund Award
   > Issued by School of Mathematics, Computer Sciences and Engineering, City university London · 06/2014
-
+-->
 
 
 ## My Best Skills
