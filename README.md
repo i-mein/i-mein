@@ -41,12 +41,18 @@
 
 - [Google Research: Identify Contrails to Reduce Global Warming](https://www.kaggle.com/certification/competitions/imeintanis/google-research-identify-contrails-reduce-global-warming)
     > Rank: 11/954 (Top: 1%)
+    > 
+    > [Solution Writeup](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/writeups/giryn-11th-place-solution-write-up)
 
 - [Tensorflow: Help Protect the Great Barrier Reef ](https://www.kaggle.com/certification/competitions/imeintanis/tensorflow-great-barrier-reef)
     > Rank: 11/2025 (Top: 1%)
+    > 
+    > [Solution Writeup](https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/writeups/cots-11th-place-solution-team-cots)
   
-- [American Express: Default Prediction]([https://comp-1/](https://www.kaggle.com/certification/competitions/imeintanis/amex-default-prediction))
+- [American Express: Default Prediction](https://www.kaggle.com/certification/competitions/imeintanis/amex-default-prediction)
     > Rank: 13/4874 (Top: 1%)
+    > 
+    > [Solution Writeup](https://www.kaggle.com/competitions/amex-default-prediction/writeups/ci-2-k-uncle-giba-13th-place-gold-solution)
 
 - [EYDAP Innovation Challenge (Part B)]() 
     > Rank: 2nd
