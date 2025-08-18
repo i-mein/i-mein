@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 > 🔭 I’m a passionate Research Data Scientist, getting my hands dirty
-  developing various AI tools 
+  developing cutting-edge AI solutions  
 
 <!-- 
 ![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
