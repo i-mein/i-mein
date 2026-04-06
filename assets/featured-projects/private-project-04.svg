@@ -1,0 +1,36 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="66" y1="54" x2="1216" y2="666" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#162132"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" rx="24" fill="#0F172A"/>
+  <rect x="32" y="32" width="1216" height="656" rx="18" fill="url(#bg4)" stroke="#334155" stroke-width="2"/>
+  <rect x="72" y="72" width="1136" height="76" rx="16" fill="#0F172A" stroke="#243244"/>
+  <rect x="96" y="92" width="54" height="36" rx="10" fill="#611F69"/>
+  <text x="123" y="116" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">S</text>
+  <rect x="168" y="92" width="240" height="36" rx="10" fill="#111827"/>
+  <text x="188" y="116" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Personal AI Assistant</text>
+  <rect x="72" y="184" width="356" height="432" rx="18" fill="#111827" stroke="#243244"/>
+  <rect x="468" y="184" width="740" height="432" rx="18" fill="#0F172A" stroke="#243244"/>
+  <text x="100" y="226" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Slack Threads</text>
+  <rect x="100" y="252" width="300" height="64" rx="14" fill="#1F2937"/>
+  <rect x="100" y="332" width="300" height="64" rx="14" fill="#1F2937"/>
+  <rect x="100" y="412" width="300" height="64" rx="14" fill="#1F2937"/>
+  <rect x="100" y="492" width="300" height="64" rx="14" fill="#1F2937"/>
+  <text x="496" y="226" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Assistant Workspace</text>
+  <rect x="496" y="254" width="684" height="122" rx="16" fill="#111827"/>
+  <rect x="496" y="398" width="328" height="190" rx="16" fill="#111827"/>
+  <rect x="852" y="398" width="328" height="190" rx="16" fill="#111827"/>
+  <rect x="528" y="286" width="420" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="528" y="318" width="564" height="14" rx="7" fill="#64748B"/>
+  <rect x="528" y="442" width="220" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="528" y="474" width="248" height="14" rx="7" fill="#64748B"/>
+  <rect x="528" y="518" width="172" height="38" rx="19" fill="#38BDF8"/>
+  <rect x="884" y="442" width="220" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="884" y="474" width="248" height="14" rx="7" fill="#64748B"/>
+  <rect x="884" y="518" width="172" height="38" rx="19" fill="#22C55E"/>
+  <text x="72" y="662" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Add Slack assistant screenshot here</text>
+  <text x="72" y="692" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="20">Recommended: Slack conversation plus assistant response or control panel</text>
+</svg>

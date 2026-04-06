@@ -1,0 +1,29 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="24" fill="#0F172A"/>
+  <rect x="32" y="32" width="1216" height="656" rx="18" fill="url(#paint0_linear_1_1)" stroke="#334155" stroke-width="2"/>
+  <rect x="72" y="84" width="360" height="20" rx="10" fill="#F59E0B"/>
+  <rect x="72" y="128" width="520" height="24" rx="12" fill="#E2E8F0"/>
+  <rect x="72" y="170" width="404" height="14" rx="7" fill="#94A3B8"/>
+  <rect x="72" y="204" width="328" height="14" rx="7" fill="#64748B"/>
+  <rect x="72" y="256" width="1136" height="336" rx="18" fill="#111827" stroke="#1E293B" stroke-width="2"/>
+  <rect x="108" y="292" width="260" height="264" rx="16" fill="#1E293B"/>
+  <path d="M176 476L232 404L282 452L330 356" stroke="#F59E0B" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="176" cy="476" r="12" fill="#F59E0B"/>
+  <circle cx="232" cy="404" r="12" fill="#F59E0B"/>
+  <circle cx="282" cy="452" r="12" fill="#F59E0B"/>
+  <circle cx="330" cy="356" r="12" fill="#F59E0B"/>
+  <rect x="408" y="292" width="360" height="118" rx="16" fill="#172554"/>
+  <rect x="408" y="438" width="360" height="118" rx="16" fill="#0F766E"/>
+  <rect x="808" y="292" width="360" height="264" rx="16" fill="#1E293B"/>
+  <circle cx="900" cy="382" r="48" fill="#EF4444" fill-opacity="0.3"/>
+  <circle cx="1020" cy="434" r="64" fill="#22C55E" fill-opacity="0.25"/>
+  <circle cx="948" cy="470" r="28" fill="#F59E0B" fill-opacity="0.5"/>
+  <text x="72" y="642" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Add LPBF project screenshot here</text>
+  <text x="72" y="674" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="20">Recommended: inspection dashboard, heatmap, or anomaly detection UI</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_1" x1="62" y1="52" x2="1212" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#172033"/>
+    </linearGradient>
+  </defs>
+</svg>
