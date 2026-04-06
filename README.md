@@ -36,12 +36,26 @@
 
 **Agentic Frameworks**
 
-<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
-<img src="https://img.shields.io/badge/CrewAI-1F2937?style=for-the-badge" alt="CrewAI" />
-<img src="https://img.shields.io/badge/pi-7C3AED?style=for-the-badge" alt="pi" />
-<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge" alt="LangGraph" />
-<img src="https://img.shields.io/badge/uAgents-E11D48?style=for-the-badge" alt="uAgents" />
+<p align="left">
+  <a>
+    <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/CrewAI-1F2937?style=for-the-badge" alt="CrewAI" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/pi-7C3AED?style=for-the-badge" alt="pi" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge" alt="LangChain" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge" alt="LangGraph" />
+  </a>
+  </a>
+    <img src="https://img.shields.io/badge/uAgents-E11D48?style=for-the-badge" alt="uAgents" />
+    </a>
+</p>
 
 **Cloud / Dev Tools**
 
@@ -49,9 +63,15 @@
 
 **Web3**
 
-<!-- <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" /> -->
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
-<img src="https://img.shields.io/badge/Smart_Contracts-121D33?style=for-the-badge&logo=chainlink&logoColor=white" alt="Smart Contracts" />
+<p align="left">
+<!-- <a> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" /> </a>  -->
+  <a>
+    <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Smart_Contracts-121D33?style=for-the-badge&logo=chainlink&logoColor=white" alt="Smart Contracts" />
+  </a>
+</p>
 
 ## Featured Projects (coming soon..)
 
@@ -200,4 +220,5 @@
 | [TensorFlow: Help Protect the Great Barrier Reef](https://www.kaggle.com/certification/competitions/imeintanis/tensorflow-great-barrier-reef) | Top 1% (11/2025) | [Solution writeup](https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/writeups/cots-11th-place-solution-team-cots) |
 | [American Express: Default Prediction](https://www.kaggle.com/certification/competitions/imeintanis/amex-default-prediction) | Top 1% (13/4874)| [Solution writeup](https://www.kaggle.com/competitions/amex-default-prediction/writeups/ci-2-k-uncle-giba-13th-place-gold-solution) |
 | EYDAP Innovation Challenge (Part B) | 2nd place | Innovation challenge finalist result |
+
 
