@@ -17,10 +17,18 @@
 
 **AI coding**
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge" alt="Codex" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-<img src="https://img.shields.io/badge/Antigravity-0F766E?style=for-the-badge" alt="Antigravity" />
+<p align="left">
+  <a>
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge" alt="Codex" />
+  </a>
+    <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <a>
+    <img src="https://img.shields.io/badge/Antigravity-0F766E?style=for-the-badge" alt="Antigravity" />
+  </a>
+</p>
 
 **Frameworks / Platforms**
 
@@ -188,10 +196,8 @@
 
 | Hackathon / Competition | Result | Highlights |
 | --- | --- | --- |
-| [Google Research: Identify Contrails to Reduce Global Warming](https://www.kaggle.com/certification/competitions/imeintanis/google-research-identify-contrails-reduce-global-warming) | 11 / 954, Top 1% | [Solution writeup](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/writeups/giryn-11th-place-solution-write-up) |
-| [TensorFlow: Help Protect the Great Barrier Reef](https://www.kaggle.com/certification/competitions/imeintanis/tensorflow-great-barrier-reef) | 11 / 2025, Top 1% | [Solution writeup](https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/writeups/cots-11th-place-solution-team-cots) |
-| [American Express: Default Prediction](https://www.kaggle.com/certification/competitions/imeintanis/amex-default-prediction) | 13 / 4874, Top 1% | [Solution writeup](https://www.kaggle.com/competitions/amex-default-prediction/writeups/ci-2-k-uncle-giba-13th-place-gold-solution) |
+| [Google Research: Identify Contrails to Reduce Global Warming](https://www.kaggle.com/certification/competitions/imeintanis/google-research-identify-contrails-reduce-global-warming) | Top 1% (11/954) | [Solution writeup](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/writeups/giryn-11th-place-solution-write-up) |
+| [TensorFlow: Help Protect the Great Barrier Reef](https://www.kaggle.com/certification/competitions/imeintanis/tensorflow-great-barrier-reef) | Top 1% (11/2025) | [Solution writeup](https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/writeups/cots-11th-place-solution-team-cots) |
+| [American Express: Default Prediction](https://www.kaggle.com/certification/competitions/imeintanis/amex-default-prediction) | Top 1% (13/4874)| [Solution writeup](https://www.kaggle.com/competitions/amex-default-prediction/writeups/ci-2-k-uncle-giba-13th-place-gold-solution) |
 | EYDAP Innovation Challenge (Part B) | 2nd place | Innovation challenge finalist result |
-
-
 
