@@ -75,7 +75,7 @@
 
 ## Featured Projects (coming soon..)
 
-<table>
+<!-- <table>
   <tr>
     <td width="60%" valign="top">
       <h3>Automated Defect Detection for LPBF Additive Manufacturing</h3>
@@ -201,7 +201,7 @@
       <img src="./assets/featured-projects/private-project-05.svg" alt="District heating optimization placeholder screenshot" />
     </td>
   </tr>
-</table>
+</table> -->
 
 ## Hackathons
 
