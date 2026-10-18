@@ -24,11 +24,11 @@ PhD in Control Engineering.
 
 - **Technical lead on 15 EU-funded R&D projects**, from proof-of-concept to on-prem production deployments
 - Work across **computer vision, NLP/LLMs, time-series, tabular ML, RL & optimisation**: hybrid digital twins, predictive maintenance, energy management systems, closed-loop CV quality control
-- Built the company's **agentic-AI infrastructure** and led the move to agentic workflows: in-house ADK agent framework, MCP tool servers, A2A agents, a governed agent-skills catalogue
-- Run internal training: an **Agentic AI & LLM workshop**, ML project templates, MLOps onboarding
+- Built **agentic-AI applications** and agentic workflows, MCP tool servers, A2A agents, a governed agent-skills catalogue
+- Create training onboarding material and run internal workshops
 - **6 top-1% / top-4 competition finishes**, including 3 Kaggle gold medals
 
-> 🔒 Most of my production code lives in my organisation's **private repositories**, so the public contribution graph shows only part of the work. The projects below are summarised from that private work.
+> 🔒 Most of my production code lives in my organisation's **private repositories**, so the public contribution graph shows only part of the work.
 
 ---
 
