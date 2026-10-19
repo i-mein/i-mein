@@ -19,7 +19,7 @@
 
 ## 👋 About
 
-**Senior AI Engineer & Team Lead** at CORE Innovation (Core Group), with **8 years** turning research into deployed AI on real industrial pilots in manufacturing, energy and water.
+**Senior AI Engineer & Team Lead** at CORE Innovation (Core Group), with 8 years turning research into deployed AI on real industrial pilots in manufacturing, energy and water.
 PhD in Control Engineering.
 
 - **Technical lead on 15 EU-funded R&D projects**, from proof-of-concept to production deployments
