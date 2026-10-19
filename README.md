@@ -22,13 +22,11 @@
 **Senior AI Engineer & Team Lead** at CORE Innovation (Core Group), leading a team of **8–11 AI engineers**, with **8 years** turning research into deployed AI on real industrial pilots in manufacturing, energy and water.
 PhD in Control Engineering.
 
-- **Technical lead on 15 EU-funded R&D projects**, from proof-of-concept to on-prem production deployments
+- **Technical lead on 15 EU-funded R&D projects**, from proof-of-concept to production deployments
 - Work across **computer vision, NLP/LLMs, time-series, tabular ML, RL & optimisation**: hybrid digital twins, predictive maintenance, energy management systems, closed-loop CV quality control
 - Built **agentic-AI applications** and agentic workflows, MCP tool servers, A2A agents, a governed agent-skills catalogue
 - Create training onboarding material and run internal workshops
 - **6 top-1% / top-4 competition finishes**, including 3 Kaggle gold medals
-
-> 🔒 Most of my production code lives in my organisation's **private repositories**, so the public contribution graph shows only part of the work.
 
 ---
 
@@ -111,32 +109,40 @@ PhD in Control Engineering.
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 Twin4Twin — AI Defect Detection for Metal AM
-<sub>EU project · LPBF 3D printing (Aconity-Mini) · 2023–2026</sub>
+### 🔬 AI Defect Detection for Metal AM (Twin4Twin)
+<sub>EU project · Metal AM LPBF (3D printing) · 2023–2026</sub>
 
 Closed-loop **digital twin for in-process quality control** of laser powder-bed fusion printing.
 
-- CV defect detection, from zero-shot experiments to production models
-- Part localisation, pixel↔mm mapping, reduced-order thermal model, pyrometer analytics
-- Defect-area & part-defect-rate KPIs plus a new **DSI metric** with alerting
-- **Batch + real-time Kafka inference**, Dockerised, models served from S3, **on-prem v0.4.4**
+- CV models for defect detection, from zero-shot experiments to production;
+- Localisation of defects per part ID, pixel↔mm mapping, reduced-order thermal model, pyrometer analytics;
+- Defect-area & part-defect-rate KPIs plus a new composite **DSI metric** with alerting
+- **Batch + real-time inference** via Kafka, Dockerised, models served from S3, **v0.4.4**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/status-production-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> 
+<!-- <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>  -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/status-production-success?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 💧 CARDIMED — Hybrid Digital Twin for Industrial Water
+### 💧 Hybrid Digital Twin for Industrial Water Network (CARDIMED)
 <sub>EU project · Industrial wastewater & water symbiosis · 2024–2027</sub>
 
 Physics + data **hybrid digital twin** for smart water management at an industrial WWTP.
 
-- **FMU co-simulation** (v2) coupled with **EPA SWMM** hydraulic models
+- **FMU co-simulation** coupled with **EPANET** hydraulic models
 - Reverse-osmosis network model and nature-based-solution (NBS) indicators
-- SCADA data ingestion, weather-driven scenarios
-- Multipage Streamlit web app for operators
+- SCADA data ingestion, what-if scenarios
+- Prototype multipage Streamlit web app for operators
 
-<img src="https://img.shields.io/badge/FMI-455A64?style=flat-square"/> <img src="https://img.shields.io/badge/SWMM-1565C0?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/status-pilot-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/FMI-455A64?style=flat-square"/> 
+<img src="https://img.shields.io/badge/SWMM-1565C0?style=flat-square"/> 
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> 
+<img src="https://img.shields.io/badge/status-pilot-blue?style=flat-square"/>
 
 </td>
 </tr>
@@ -145,17 +151,20 @@ Physics + data **hybrid digital twin** for smart water management at an industri
 <!-- Edge-Cortex card hidden for now
 <td width="50%" valign="top">
 
-### 🌬️ Edge-Cortex — Neuro-symbolic Agents for Offshore Wind
+### 🌬️ Edge-Cortex — Neuro-symbolic Multi-agent System for Offshore Wind
 <sub>R&D proof of concept · 2026</sub>
 
-**Two-agent neuro-symbolic system** for offshore wind-farm operations.
+**Multi-agent neuro-symbolic system** for offshore wind-farm operations.
 
 - **14 MCP servers** exposing domain tools to the agents
 - Neural surrogates (**LNN, KAN, FNO**) exported to **ONNX** for edge inference
 - Live **ENTSO-E** electricity prices feeding dispatch decisions
 - Operator dashboard for agent reasoning and actions
 
-<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"/> <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/> <img src="https://img.shields.io/badge/Neuro--symbolic-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/status-PoC-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Neuro--symbolic-7C3AED?style=flat-square"/> 
+<img src="https://img.shields.io/badge/status-PoC-orange?style=flat-square"/>
 
 </td>
 -->
@@ -171,35 +180,43 @@ Multi-agent **retrieval & synthesis** system over organisational knowledge.
 - Runs on **local LLMs**; Dockerised with a Makefile workflow
 - Built on our in-house **ADK v2 agent kit** and governed **agent-skills hub**
 
-<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/A2A-34A853?style=flat-square"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/> 
+<img src="https://img.shields.io/badge/A2A-34A853?style=flat-square"/> 
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> -->
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ TRINEFLEX — Energy Management Systems
+### ⚡ Energy Management Systems (TRINEFLEX)
 <sub>EU project · WWTP & glass-manufacturing pilots · 2025–2026</sub>
 
 **Forecasting + optimisation EMS** for energy-intensive industrial sites.
 
-- EMS for the **ESAMUR WWTP** (load/generation forecasting, dispatch optimisation)
-- EMS for Verallia's shrink-wrapping process
+- EMS for an industrial **WWTP**, including load/generation forecasting, dispatch optimisation (Esamur, Spain)
+- EMS for Glass manufacturing shrinking-wrapping process (Verallia, Italy)
 
-<img src="https://img.shields.io/badge/Forecasting-0F766E?style=flat-square"/> <img src="https://img.shields.io/badge/Optimisation-5D4037?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Forecasting-0F766E?style=flat-square"/> 
+<img src="https://img.shields.io/badge/Optimisation-5D4037?style=flat-square"/> 
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/status-production-success?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 MACHINERY-AI — Industrial AI Demo Suite & LLM Fine-tuning
+### 🧪 Industrial AI Demo Suite & LLM Fine-tuning (MACHINERY-AI)
 <sub>Digital Europe project · 2026–2029</sub>
 
 Interactive demos of industrial AI tasks and an **LLM fine-tuning studio** for industrial datasets.
 
 - Demo suite: **predictive maintenance, predictive quality, anomaly detection**
-- Related R&D: **LoRA SFT of an 8B Nemotron-family model** on an AM-reasoning dataset (MLX + Unsloth/TRL backends)
+- Related R&D: **SFT methodologies (e.g. LoRA, QLoRA)**, implementation of SFT pipelines, domain adaptation for timeseries
 
-<a href="https://machninery-ai.netlify.app/"><img src="https://img.shields.io/badge/▶_Live_demo-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a> <img src="https://img.shields.io/badge/TRL-6E40C9?style=flat-square"/> <img src="https://img.shields.io/badge/LoRA-8A2BE2?style=flat-square"/>
+<a href="https://machninery-ai.netlify.app/"><img src="https://img.shields.io/badge/▶_Live_demo-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/TRL-6E40C9?style=flat-square"/> 
+<img src="https://img.shields.io/badge/LoRA-8A2BE2?style=flat-square"/>
 
 </td>
 </tr>
@@ -213,8 +230,10 @@ Interactive demos of industrial AI tasks and an **LLM fine-tuning studio** for i
 |---|---|---|
 | [**ChainReach**](https://github.com/i-mein/chainreach) | Give your AI agent eyes on-chain: prices, DeFi, DEX, wallets and governance | ![](https://img.shields.io/badge/in_progress-public_soon-orange?style=flat-square) |
 | [**WalletGuard**](https://github.com/i-mein/Walletguard) | A policy firewall between AI agents and money | ![](https://img.shields.io/badge/in_progress-public_soon-orange?style=flat-square) |
-| **Zero-human Agentic AI company** | Autonomous agent organisation (orchestrated via Paperclip) | ![](https://img.shields.io/badge/private_R%26D-555?style=flat-square) |
+| [**Solana Token Analyzer**](https://github.com/i-mein/solana-token-analyzer) | A Solana token analyzer for AI agents (bounty by Datacore Labs) | ![](https://img.shields.io/badge/ready-public_soon-orange?style=flat-square) |
 | [**Multi-Agent Research Assistant**](https://github.com/i-mein/Multi-Agent-Research-Assistant-CrewAI) | Multi-agent LLM system for research tasks, built with CrewAI | ![](https://img.shields.io/badge/public-success?style=flat-square) |
+| [**CodeGraph RAG Memgraph**](https://github.com/i-mein/codegraph-rag-memgraph) | A Graph-Based RAG System for Python Codebases with memgraph | ![](https://img.shields.io/badge/public-success?style=flat-square) |
+| **Zero-human Agentic AI company** | Autonomous agent organisation (orchestrated via Paperclip) | ![](https://img.shields.io/badge/private_R%26D-555?style=flat-square) |
 <!--| [**WunderNN Predictorium**](https://github.com/i-mein/WunderNN-Predictorium) | Multi-stream GRU with causal attention for limit-order-book prediction (54 / 5094) | ![](https://img.shields.io/badge/public-success?style=flat-square) |-->
 <!--| [**Twin4Twin AI Workshop**](https://github.com/i-mein/T4T-AI-Workshop-shared) | Training material I built for project partners: regression, failure classification, energy forecasting | ![](https://img.shields.io/badge/public-success?style=flat-square) |-->
 <!--| [**Great Barrier Reef — 11th**](https://github.com/i-mein/Kaggle-TGBR-11th-sol) | Video object detection of crown-of-thorns starfish | ![](https://img.shields.io/badge/public-success?style=flat-square) | -->
@@ -260,3 +279,5 @@ Interactive demos of industrial AI tasks and an **LLM fine-tuning studio** for i
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" alt="footer"/>
 </p>
+
+> 🔒 Most of my production code lives in my organisation's **private repositories**, so the public contribution graph shows only part of the work.
