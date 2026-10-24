@@ -230,7 +230,7 @@ Interactive demos of industrial AI tasks and an **LLM fine-tuning studio** for i
 |---|---|---|
 | [**ChainReach**](https://github.com/i-mein/chainreach) | Give your AI agent eyes on-chain: prices, DeFi, DEX, wallets and governance | ![](https://img.shields.io/badge/in_progress-public_soon-orange?style=flat-square) |
 | [**WalletGuard**](https://github.com/i-mein/Walletguard) | A policy firewall between AI agents and money | ![](https://img.shields.io/badge/in_progress-public_soon-orange?style=flat-square) |
-| [**Solana Token Analyzer**](https://github.com/i-mein/solana-token-analyzer) | A Solana token analyzer for AI agents (bounty by Datacore Labs) | ![](https://img.shields.io/badge/ready-public_soon-orange?style=flat-square) |
+| [**Solana Token Analyzer**](https://github.com/i-mein/solana-token-analyzer) | A Solana token analyzer for AI agents (bounty by Datacore Labs) | ![](https://img.shields.io/badge/public-success??style=flat-square) |
 | [**Multi-Agent Research Assistant**](https://github.com/i-mein/Multi-Agent-Research-Assistant-CrewAI) | Multi-agent LLM system for research tasks, built with CrewAI | ![](https://img.shields.io/badge/public-success?style=flat-square) |
 | [**CodeGraph RAG Memgraph**](https://github.com/i-mein/codegraph-rag-memgraph) | A Graph-Based RAG System for Python Codebases with memgraph | ![](https://img.shields.io/badge/public-success?style=flat-square) |
 | **Zero-human Agentic AI company** | Autonomous agent organisation (orchestrated via Paperclip) | ![](https://img.shields.io/badge/private_R%26D-555?style=flat-square) |
